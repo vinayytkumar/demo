@@ -1,0 +1,44 @@
+.section-1 {
+    background-size: cover;
+
+    background-image: url("https://demo.w3layouts.com/demos_new/template_demo/20-10-2021/online-study-liberty-demo_Free/676477441/web/assets/images/banner.png");
+}
+.section-1-button {
+    font-weight: 600;
+    padding: 10px 20px;
+    background: #f50057;
+    color: white;
+}
+.section-1-button div{
+    width: 25px;
+    border-radius: 23px;
+    display: inline-block!important;
+    background: rgb(255 255 255 / 18%);
+}
+
+
+
+.hover-science {
+    background: #fbfbfb;
+}
+
+.hover-science:hover div.card-body p.hoer {
+    color: #f50057;
+    transition: 0.3s ease-in-out;
+    background-color: white;
+}
+
+.hover-science:hover {
+    background-color: white;
+    transition: 0.3s ease-in-out;
+}
+
+/* section -3 */
+
+.border-radious{
+    border-radius:15px;
+}
+a.title-team-32 {
+    text-decoration: none;
+    color: black;
+}
